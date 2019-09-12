@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# Terrarium TV Official Website
+Terrarium TV app has been shut down and discontinued. ALL its related operations have been ceased officially. The developer will not contribute to or be involved in any streaming apps or services from now on.
 
-You can use the [editor on GitHub](https://github.com/TerrariumTV-Official-Website/Official-Website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Terrarium TV app downloaded from unknown sources harms your device and exposes your IP address. Please uninstall Terrarium TV immediately! All unofficial versions of Terrarium TV are not affiliated with the original and official one.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For now, you will NOT be able to watch any video stream using Terrarium TV app as all the pages and screens will show “No Data” only. Clicking the update button will not update the app. Version 9.9.9 DOES NOT exist. All development activities have been ceased and there will be no more updates. Without any future updates, the app becomes useless as the code becomes outdated. Please uninstall it immediately!
 
-### Markdown
+ou can visit [https://www.justwatch.com/](https://www.justwatch.com/) for legitimate Terrarium TV alternatives! You should ONLY use legitimate software applications like Netflix or Amazon Prime for watching or streaming movies and TV shows.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Thank you and farewell.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TerrariumTV-Official-Website/Official-Website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Sep 11, 2018
