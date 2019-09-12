@@ -1,4 +1,5 @@
 ![Terrarium TV](ttv.png)
+
 Terrarium TV app has been shut down and discontinued. ALL its related operations have been ceased officially. The developer will not contribute to or be involved in any streaming apps or services from now on.
 
 Terrarium TV app downloaded from unknown sources harms your device and exposes your IP address. Please uninstall Terrarium TV immediately! All unofficial versions of Terrarium TV are not affiliated with the original and official one.
